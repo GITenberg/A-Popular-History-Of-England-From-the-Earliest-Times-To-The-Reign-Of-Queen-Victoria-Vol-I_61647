@@ -1,5 +1,8 @@
 _repo: A-Popular-History-Of-England-From-the-Earliest-Times-To-The-Reign-Of-Queen-Victoria-Vol-I_61647
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Guizot, François
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '51541'
     url: http://www.gutenberg.org/2009/agents/51541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61647#A-Popular-History-Of-England-From-the-Earliest-Times-To-The-Reign-Of-Queen-Victoria-Vol-I
 gutenberg_issued: '2020-03-21'
 gutenberg_type: Text
 identifiers:
